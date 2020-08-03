@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="card" uuid="0c9ee93b-b039-4214-9652-b1dd2dee9bda">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\pc\IdeaProjects\Simple Banking System1\Simple Banking System\task\card.s3db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="tempDatabase" uuid="c8c5719e-251b-4bca-8cee-82bb2a290171">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\pc\IdeaProjects\Simple Banking System1\Simple Banking System\task\tempDatabase.s3db</jdbc-url>
+    </data-source>
+  </component>
+</project>
